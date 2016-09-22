@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/peddavid/Documents/engine/dependencies/glfw-3.2.1/examples/CMakeFiles/heightmap.dir/__/deps'
+let g:netrw_dirhist_2='/home/peddavid/Documents/peddavid.github.io/_drafts'
+let g:netrw_dirhist_3='/home/peddavid'
+let g:netrw_dirhist_4='/home/peddavid/Documents'
+let g:netrw_dirhist_5='/home/peddavid/.vim'
